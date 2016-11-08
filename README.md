@@ -13,7 +13,7 @@ These data sets are linked by user and hostel ids. Look at the data dictionary f
 ## Details
 Your solution should be able to recommend hotels for a given user, and give numeric values for the recommendations. The recommendation values should relate to what a user would leave as a reivew score if they stayed at that hostel. 
 
-Your solution should be able to give a recommendation score for any hostel user combination. This is how your solution will be judged.You are given reviews for users that have left multiple reviews. We have saved some of those reviews to test your solution. The best solution will have the lowest sum of differences between recommendation scores and the review scores.
+Your solution should be able to give a recommendation score for any hostel user combination. This is how your solution will be judged. You are given reviews for users that have left multiple reviews. We have saved some of those reviews to test your solution. The best solution will have the lowest sum of differences between recommendation scores and the review scores.
 
 ## Questions?
-  Please email your questions about the challenge to hwchallenge2016@gmail.com.
+ Please email your questions about the challenge to hwchallenge2016@gmail.com.
