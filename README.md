@@ -3,7 +3,12 @@
 The challenge for Hostelworld is to build a recommendation engine for users. Recommendations can save travelers serious time, improve their hostel experience, and increase user retention. This challenge will use user information, reviews, and hostel details. 
 
 ## Data
-You are given three data sets. One containing user information, one for user reviews, and one for hostel details. These data sets are linked by user and hostel ids. Look at the data dictionary for more information.  
+You are given three data sets
+-	User Information
+-	User Reviews 
+-	Hostel Details 
+
+These data sets are linked by user and hostel ids. Look at the data dictionary for more information.  
 
 ## Details
 Your solution should be able to recommend hotels for a given user, and give numeric values for the recommendations. The recommendation values should relate to what a user would leave as a reivew score if they stayed at that hostel. 
