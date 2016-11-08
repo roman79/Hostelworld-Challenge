@@ -2,6 +2,8 @@
 
 The challenge for Hostelworld is to build a recommendation engine for users. Recommendations can save travelers serious time, improve their hostel experience, and increase user retention. This challenge will use user information, reviews, and hostel details.
 
+Hostelworld currently lets users apply filters to their search. However, hostels with the same features and price range can still be very different. This is why hostelworld is proposing the challenge of building a recommendation engine that also takes into account review text and hostel descriptions.
+
 [Register here to access the anonymized data set](https://ti.to/hackathon-conference/travel-meets-big-data/)
 
 ![meet-the-world](http://www.hirum.com.au/wp-content/uploads/2015/11/meet-the-world.png)
@@ -18,3 +20,5 @@ The data will include
 
 ## Questions?
  Please email your questions about the challenge to hwchallenge2016@gmail.com.
+ 
+ [View project challenge is based on for background.](https://caitlinmowdy.github.io/)
