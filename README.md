@@ -9,14 +9,21 @@ Hostelworld currently lets users apply filters to their search. However, hostels
 ![meet-the-world](http://www.hirum.com.au/wp-content/uploads/2015/11/meet-the-world.png)
 
 ## Details
-Your solution should be able to recommend hostels for a given user, and give numeric values for the recommendations. The recommendation values should relate to what a user would leave as a reivew score if they stayed at that hostel. 
-
-Your solution should be able to give a recommendation score for any hostel user combination. This is how your solution will be judged. You are given reviews for users that have left multiple reviews. We have saved some of those reviews to test your solution. The best solution will have the lowest sum of differences between recommendation scores and the review scores.
+Your solution should be able to recommend hostels for a given user, and give numeric values for the recommendations. The recommendation values should relate to what a user would leave as a reivew score if they stayed at that hostel. Your solution should be able to give a recommendation score for any hostel user combination.
 
 The data will include
 -	User Information
 -	User Reviews 
--	Hostel Details  
+-	Hostel Details 
+
+The final testing data set is a set of user reviews where we have withheld the scores. You will submit the following dataframes with you model:
+- A dataframe including user and hostel ids from the final testing data reviews with your predicted review score.
+- A dataframe containing user ids from the final testing data set with the hostel your model recommends highest for them and the recommendation score for that hostel. 
+
+Your submission will be graded by 
+- Summing up the difference between your predicted review scores and the actual review scores of the testing data set
+- Comparing your recommendation hostel scores to your  predicted scores of the testing data 
+- Overall construction of your recomendation engine  
 
 ## Questions?
  Please email your questions about the challenge to hwchallenge2016@gmail.com.
