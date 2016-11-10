@@ -9,7 +9,7 @@ Hostelworld currently lets users apply filters to their search. However, hostels
 ![meet-the-world](http://www.hirum.com.au/wp-content/uploads/2015/11/meet-the-world.png)
 
 ## Details
-Your solution should be able to recommend hostels for a given user, and give numeric values for the recommendations. The recommendation values should relate to what a user would leave as a reivew score if they stayed at that hostel. Your solution should be able to give a recommendation score for any hostel user combination.
+Your solution should be able to recommend hostels for a given user, and give numeric values for the recommendations. The recommendation values should relate to what a user would leave as a review score if they stayed at that hostel. Your solution should be able to give a recommendation score for any hostel user combination.
 
 The data will include
 -	User Information
