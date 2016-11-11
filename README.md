@@ -26,6 +26,6 @@ Your submission will be graded by
 - Overall construction of your recomendation engine  
 
 ## Questions?
- Please email your questions about the challenge to hwchallenge2016@gmail.com.
+ Please email your questions about the challenge to hwchallenge2016@entanon.com.
  
  [View project the challenge is based on for background.](https://caitlinmowdy.github.io/)
