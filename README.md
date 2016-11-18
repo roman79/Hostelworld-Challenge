@@ -23,7 +23,12 @@ The final testing data set is a set of user reviews where we have withheld the s
 Your submission will be graded by 
 - Summing up the difference between your predicted review scores and the actual review scores of the testing data set
 - Comparing your recommendation hostel scores to your  predicted scores of the testing data 
-- Overall construction of your recomendation engine  
+- Overall construction of your recomendation engine
+
+## Note
+We have received some questions about reivew text being in the testing data. If you are building a recommendation engine for this challenge you should **NOT** use review text to predict score. The review text is there to help find similarities between users so as to assist in recommending hostels. I would suggest ignoring the review text in the testing data and predicting scores based on recommendation scores or distances. You should predict the scores of the testing data using recommendation scores or distances to validate your recommendation engine, and then also submit your hostel recommendations with scores for the users of the testing data. [View data submission example](https://github.com/rapidanalytics/Hostelworld-Challenge/blob/master/Data_Submission_Examples.ipynb) 
+
+Building a recommendation engine is the challenge. If you build a model that predicts scores using review text instead of recommendation scores or distances then you are not validating you recommendation engine and points will be taken off. 
 
 ## Questions?
  Please email your questions about the challenge to hwchallenge2016@entanon.com.
